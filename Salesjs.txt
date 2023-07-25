@@ -1,0 +1,7 @@
+Akash,akshgupt@gmail.com,9696966433,1002,Bar-One,10,20,200,Mon Jul 24 09:42:47 2023
+Kornika,dasguptkorni@gmail.com,5678923456,1001,5 Star,185,10,1850,Tue Jul 25 19:05:45 2023
+Brian,briangomes@gmail.com,3456789012,1007,Chocolate,2,600,1200,Tue Jul 25 19:27:29 2023
+Siam,siamahmed@gmail.com,4567890123,1001,5 Star,5,10,50,Tue Jul 25 19:49:43 2023
+shobhit,sgupta@gmail.com,23478945601,1003,Perk,5,15,75,Tue Jul 25 19:59:09 2023
+maji,maji023@gmail.com,2567983401,1011,Lays,4,25,105.0,Tue Jul 25 20:37:01 2023
+ansh,anshg@gmail.com,2679853401,1008,BlackForest,1,750,712.50,Tue Jul 25 20:43:03 2023
